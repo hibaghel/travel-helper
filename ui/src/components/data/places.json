@@ -1,0 +1,31 @@
+[
+    {
+        "id": 1,
+        "title": "Kullu",
+        "photo":"https://images.thrillophilia.com/image/upload/s--WnPsHrBq--/c_fill,f_auto,fl_strip_profile,h_600,q_auto,w_975/v1/images/photos/000/086/163/original/1465388113_Confluence_-_River_Beas_and_River_Parvati_-_Bhuntar_-_Kullu_-_2014-05-09_2166-2169_Compress.JPG.jpg?1465388113",
+        "content": "Content",
+        "distance": "100kms",
+        "stay": "Hotels,dharmshala"
+    },
+    {
+        "id": 2,
+        "title": "Shimla",
+        "content": "This much href and all",
+        "distance": "200kms",
+        "stay": "Hotels,dharmshala"
+    },
+    {
+        "id": 3,
+        "title": "Parashar",
+        "content": "This much href and all",
+        "distance": "50kms",
+        "stay": "Hotels,dharmshala"
+    },
+    {
+        "id": 4,
+        "title": "Manali",
+        "content": "This much href and all",
+        "distance": "150kms",
+        "stay": "Hotels,dharmshala"
+    }
+]
